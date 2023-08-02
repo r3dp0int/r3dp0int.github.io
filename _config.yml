@@ -11,46 +11,44 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: US/Chicago
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Hacker's Rest                           # the main title
+title: fp6sec                        # the main title
 
-tagline: Notes documenting my journey to OSCP and beyond.   # it will display as the sub-title
+tagline: HTB and CTF Writeups   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A place for hackers, penetration testers,
-  red-teamers, blue-teamers, and cyber security
-  professionals of all kinds to learn and share ideas.
+Cybersecurity, HTB and CTF Writeups.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://zweilosec.github.io'
+url: 'https://fp6sec.github.io'
 
 github:
-  username: zweilosec             # change to your github username
+  username: fp6sec             # change to your github username
 
 twitter:
-  username: zweilosec            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: zweilosec
-  email: example@doamin.com             # change to your email address
+  name: Ollie Stirling
+  email: ollie.stirling@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/zweilosec      # change to your twitter homepage
-    - https://github.com/zweilosec       # change to your github homepage
+    # - https://twitter.com/fp6sec      # change to your twitter homepage
+    - https://github.com/fp6sec       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/chris-beery
+    # - https://www.linkedin.com/in/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
 google_analytics:
-  id: 'UA-170504820-1'              # fill in your Google Analytics ID
+  #id: 'UA-170504820-1'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -77,7 +75,7 @@ theme_mode:  # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar/katana.gif
+avatar: /assets/img/avatar/katana.gifs
 
 # boolean type, the global switch for ToC in posts.
 toc: true
