@@ -20,7 +20,7 @@ title: fp6sec                        # the main title
 tagline: HTB and CTF Writeups   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-Cybersecurity, HTB and CTF Writeups.
+  Cybersecurity, HTB and CTF Writeups.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://fp6sec.github.io'
@@ -75,7 +75,7 @@ theme_mode:  # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar/katana.gifs
+avatar: /assets/img/avatar/cat.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -92,7 +92,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
-    # default_lang: console
+    default_lang: console
     span:
       line_numbers: false
     block:

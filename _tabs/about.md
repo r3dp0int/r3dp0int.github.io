@@ -4,12 +4,8 @@ icon: fas fa-info
 order: 4
 ---
 
-![Zweilosec's Github logo](../assets/img/zweilosec_github_230px.png)
+## fp6sec
+Cyber security student and aspiring penetration tester. This page is a collection of writeups for boxes from HTB, THM and other platforms.
 
-## WolfZweiler
-### zweilosec
-A Blue-teamer dabbling in Red-team land. Learning everything I can and trying to take notes as best I can. Feel free to join me!
-
-* **Blog** =          [https://zweilosec.github.io](https://zweilosec.github.io)
-* **GitHub** =        [https://github.com/zweilosec](https://github.com/zweilosec)
-* **Hacking Notes** = [https://zweilosec.gitbook.io](https://zweilosec.gitbook.io)
+* **Blog** =          [https://fp6sec.github.io](https://fp6sec.github.io)
+* **GitHub** =        [https://github.com/fp6sec](https://github.com/fp6sec)
