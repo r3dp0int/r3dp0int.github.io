@@ -15,7 +15,7 @@ timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: fp6sec                        # the main title
+title: r3dp0int                        # the main title
 
 tagline: HTB and CTF Writeups   # it will display as the sub-title
 
@@ -23,10 +23,10 @@ description: >-                        # used by seo meta and the atom feed
   Cybersecurity, HTB and CTF Writeups.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://fp6sec.github.io'
+url: 'https://r3dp0int.github.io'
 
 github:
-  username: fp6sec             # change to your github username
+  username: r3dp0int             # change to your github username
 
 twitter:
   username:             # change to your twitter username
@@ -38,8 +38,8 @@ social:
   email: ollie.stirling@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/fp6sec      # change to your twitter homepage
-    - https://github.com/fp6sec       # change to your github homepage
+    # - https://twitter.com/r3dp0int      # change to your twitter homepage
+    - https://github.com/r3dp0int       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/
