@@ -4,7 +4,7 @@
   <id>https://r3dp0int.github.io/</id>
   <title>r3dp0int</title>
   <subtitle>Cybersecurity, HTB and CTF Writeups.</subtitle>
-  <updated>2023-08-08T20:18:31+10:00</updated>
+  <updated>2023-08-10T20:04:31+10:00</updated>
   <author>
     <name>Ollie Stirling</name>
     <uri>https://r3dp0int.github.io/</uri>
@@ -24,7 +24,7 @@
     <link href="https://r3dp0int.github.io/posts/sau/" rel="alternate" type="text/html" title="Hack The Box - Sau Writeup" />
     <published>2023-07-30T00:00:00+10:00</published>
   
-    <updated>2023-07-30T00:00:00+10:00</updated>
+    <updated>2023-08-08T20:44:01+10:00</updated>
   
     <id>https://r3dp0int.github.io/posts/sau/</id>
     <content src="https://r3dp0int.github.io/posts/sau/" />
