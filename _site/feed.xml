@@ -4,7 +4,7 @@
   <id>https://r3dp0int.github.io/</id>
   <title>r3dp0int</title>
   <subtitle>Cybersecurity, HTB and CTF Writeups.</subtitle>
-  <updated>2023-08-10T20:04:31+10:00</updated>
+  <updated>2023-11-13T16:08:58+11:00</updated>
   <author>
     <name>Ollie Stirling</name>
     <uri>https://r3dp0int.github.io/</uri>
@@ -17,53 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Hack The Box - Sau Writeup</title>
-    <link href="https://r3dp0int.github.io/posts/sau/" rel="alternate" type="text/html" title="Hack The Box - Sau Writeup" />
-    <published>2023-07-30T00:00:00+10:00</published>
-  
-    <updated>2023-08-08T20:44:01+10:00</updated>
-  
-    <id>https://r3dp0int.github.io/posts/sau/</id>
-    <content src="https://r3dp0int.github.io/posts/sau/" />
-    <author>
-      <name>Ollie Stirling</name>
-    </author>
-
-  
-    
-    <category term="Hack the Box" />
-    
-    <category term="Writeup" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-Overview
-Sau is an easy rated Linux machine on Hack The Box that is vulnerable to an SSRF exploit, and unauthorised RCE through a vulnerable internal web service.
-
-Recon
-Firstly, we start by running an nmap scan on the target IP with the command: nmap -vv -Pn -T4 -sCV [target IP]
-
-  -vv to increase nmap scan verbosity
-  -Pn to disable host discovery
-  -T4 to increase scan speed
-  -sCV to enum...
-    </summary>
-  
-
-  </entry>
 
 </feed>
 

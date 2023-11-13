@@ -1,19 +1,4 @@
 [
   
-  {
-    "title": "Hack The Box - Sau Writeup",
-    "url": "/posts/sau/",
-    "categories": "Hack the Box, Writeup",
-    "tags": "htb, hacking, hack the box, writeup, linux, web, sudo, SSRF, python, redteam",
-    "date": "2023-07-30 00:00:00 +1000",
-    
-
-
-
-
-
-    "snippet": "OverviewSau is an easy rated Linux machine on Hack The Box that is vulnerable to an SSRF exploit, and unauthorised RCE through a vulnerable internal web service.ReconFirstly, we start by running an nmap scan on the target IP with the command: nmap -vv -Pn -T4 -sCV [target IP]  -vv to increase nma..."
-  }
-  
 ]
 
